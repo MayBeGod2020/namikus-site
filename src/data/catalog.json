@@ -1,0 +1,6747 @@
+{
+"fonts": [
+[
+"НМ Сёнэн 2",
+"Намикус",
+[
+"Средний",
+"Диалоговый пузырь",
+"С примерами"
+],
+"f",
+24,
+"ext",
+{
+"u": "https://boosty.to/namikus/posts/0322ee00-602d-485b-9c3b-7016fca29643?share=post_link",
+"lic": "Полностью бесплатный",
+"pf": "r0",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+],
+"cp": "NM Shonen 2",
+"aw": [
+{
+"f": "awards/nm-senen-2.webp",
+"c": "g",
+"t": "Превью шрифта",
+"u": ""
+},
+{
+"f": "awards/nm-senen-2-2.webp",
+"c": "g",
+"t": "",
+"u": ""
+},
+{
+"f": "awards/nm-senen-2-3.webp",
+"c": "g",
+"t": "",
+"u": ""
+},
+{
+"f": "awards/nm-senen-2-4.webp",
+"c": "g",
+"t": "",
+"u": ""
+},
+{
+"f": "awards/nm-senen-2-5.webp",
+"c": "g",
+"t": "Боруто",
+"u": ""
+},
+{
+"f": "awards/nm-senen-2-6.webp",
+"c": "g",
+"t": "Не знаю откуда отрывок",
+"u": ""
+}
+]
+}
+],
+[
+"НМ Скандал",
+"Намикус",
+[
+"Средний",
+"Диалоговый пузырь",
+"С примерами"
+],
+"f",
+24,
+"ext",
+{
+"u": "https://boosty.to/namikus/posts/54545075-649b-4483-9533-0f14bb49e133?share=post_link",
+"lic": "Полностью бесплатный",
+"pf": "r1",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+],
+"cp": "NM Scandal",
+"aw": [
+{
+"f": "awards/nm-skandal.webp",
+"c": "g",
+"t": "",
+"u": ""
+},
+{
+"f": "awards/nm-skandal-2.webp",
+"c": "g",
+"t": "",
+"u": ""
+},
+{
+"f": "awards/nm-skandal-3.webp",
+"c": "g",
+"t": "",
+"u": ""
+}
+]
+}
+],
+[
+"НМ Дозор (В бывшем Денди)",
+"Намикус",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"f",
+24,
+"ext",
+{
+"u": "https://boosty.to/namikus/posts/1c3b7b25-7489-4593-ac11-46e82ea13253?share=post_link",
+"lic": "Полностью бесплатный",
+"pf": "r2",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+],
+"cp": "NM Dozor"
+}
+],
+[
+"Сочиняла",
+"Намикус",
+[
+"Средний",
+"Диалоговый пузырь",
+"С примерами"
+],
+"f",
+24,
+"ext",
+{
+"u": "https://boosty.to/namikus/posts/2b78c590-fd43-425e-93d9-9f39626a4d99?share=post_link",
+"lic": "Полностью бесплатный",
+"pf": "r5",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+],
+"cp": "Sochinyala",
+"aw": [
+{
+"f": "awards/sochinyala-2.webp",
+"c": "g",
+"t": "",
+"u": ""
+},
+{
+"f": "awards/sochinyala-3.webp",
+"c": "g",
+"t": "",
+"u": ""
+},
+{
+"f": "awards/sochinyala-4.webp",
+"c": "g",
+"t": "",
+"u": ""
+},
+{
+"f": "awards/sochinyala-5.webp",
+"c": "g",
+"t": "",
+"u": ""
+}
+]
+}
+],
+[
+"Болтушка",
+"Намикус",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"f",
+24,
+"ext",
+{
+"u": "https://boosty.to/namikus/posts/daf2e725-4a27-4e39-9637-5c56c0852406?share=post_link",
+"lic": "Полностью бесплатный",
+"pf": "r6",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+],
+"cp": "Boltushka"
+}
+],
+[
+"Геройка",
+"Намикус",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"f",
+24,
+"ext",
+{
+"u": "https://boosty.to/namikus/posts/c25e3877-67de-4239-8ec9-23e682a9104b?share=post_link",
+"lic": "Полностью бесплатный",
+"pf": "r4",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+],
+"cp": "Heroika"
+}
+],
+[
+"Сёнэн",
+"Намикус",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"f",
+24,
+"ext",
+{
+"u": "https://boosty.to/namikus/posts/72ec6be9-c3d9-4eeb-8304-fbd06e3cfc57?share=post_link",
+"lic": "Полностью бесплатный",
+"pf": "r3",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+],
+"cp": "Shonen"
+}
+],
+[
+"Spider sans (beta)",
+"Абай",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"f",
+24,
+"ext",
+{
+"u": "https://www.fontspace.com/spider-sans-beta-font-f161264",
+"lic": "Полностью бесплатный",
+"pf": "a268",
+"st": [
+"400n"
+]
+}
+],
+[
+"QR Tales (Beta)",
+"Абай",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"s",
+24,
+"ext",
+{
+"u": "https://www.fontspace.com/qr-tales-beta-font-f161500",
+"lic": "Бесплатный для учёбы, не для коммерции",
+"pf": "a267",
+"st": [
+"400n"
+]
+}
+],
+[
+"QR Ames (beta)",
+"Абай",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"s",
+24,
+"ext",
+{
+"u": "https://www.fontspace.com/qr-ames-beta-font-f154790",
+"lic": "Бесплатный для учёбы, не для коммерции",
+"pf": "a269",
+"st": [
+"400n"
+]
+}
+],
+[
+"Takezo",
+"Абай",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"f",
+24,
+"ext",
+{
+"u": "https://t.me/abay_emes/158",
+"lic": "Полностью бесплатный",
+"pf": "a259",
+"st": [
+"400i",
+"400n",
+"700n",
+"900n"
+]
+}
+],
+[
+"Bubble Sans",
+"Абай",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"f",
+24,
+"ext",
+{
+"u": "https://www.fontspace.com/bubble-sans-font-f137446",
+"lic": "Полностью бесплатный",
+"pf": "a263",
+"st": [
+"400n"
+]
+}
+],
+[
+"ChillSide",
+"Абай",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"f",
+24,
+"ext",
+{
+"u": "https://www.fontspace.com/chill-side-font-f142682",
+"lic": "Полностью бесплатный",
+"pf": "a264",
+"st": [
+"400n"
+]
+}
+],
+[
+"QR Comic Beta",
+"Абай",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"f",
+24,
+"ext",
+{
+"u": "https://www.fontspace.com/qr-comic-beta-font-f142787",
+"lic": "Полностью бесплатный",
+"pf": "a257",
+"st": [
+"400n"
+]
+}
+],
+[
+"Emes",
+"Абай",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"s",
+24,
+"ext",
+{
+"u": "https://www.fontspace.com/emes-font-f146023",
+"lic": "Бесплатный для учёбы",
+"pf": "a256",
+"st": [
+"400n"
+]
+}
+],
+[
+"Beyne",
+"Абай",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"s",
+24,
+"ext",
+{
+"u": "https://www.fontspace.com/beyne-font-f113775",
+"lic": "Бесплатный для учёбы",
+"pf": "q6",
+"st": [
+"400n"
+]
+}
+],
+[
+"Hiykaya",
+"Абай",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"s",
+24,
+"ext",
+{
+"u": "https://www.fontspace.com/hiykaya-font-f97366",
+"lic": "Бесплатный для учёбы",
+"pf": "q7",
+"st": [
+"400n"
+]
+}
+],
+[
+"Balpaq",
+"Абай",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"f",
+24,
+"ext",
+{
+"u": "https://www.fontspace.com/balpaq-font-f97724",
+"lic": "Полностью бесплатный",
+"pf": "a262",
+"st": [
+"400n"
+]
+}
+],
+[
+"Eles",
+"Абай",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"s",
+24,
+"ext",
+{
+"u": "https://www.fontspace.com/eles-font-f127791",
+"lic": "Бесплатный для учёбы",
+"pf": "a266",
+"st": [
+"400n"
+]
+}
+],
+[
+"ChillSpeech",
+"Любой другой",
+[
+"Узкий",
+"Диалоговый пузырь"
+],
+"f",
+24,
+"ext",
+{
+"u": "https://fontesk.com/chillspeech-font/",
+"lic": "Полностью бесплатный",
+"pf": "a265",
+"st": [
+"400n"
+]
+}
+],
+[
+"CCFaceFront",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь",
+"С примерами"
+],
+"r",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1z09OqDOhunb_uVGDIxzuEpfaPDPTYL20",
+"pf": "p20",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+]
+}
+],
+[
+"v_CCJoeKubert",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь",
+"С примерами"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1dT-2hHdDjWCwAfi_yKZsZ7C75na9tixS",
+"pf": "p21",
+"st": [
+"400n"
+]
+}
+],
+[
+"CCHushHush",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1VkeTHnFf_-DskbFM1AGFV0-KdSUgKMQS",
+"pf": "p22",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+]
+}
+],
+[
+"CCMildMannered",
+"Комикрафт",
+[
+"Широкий",
+"Диалоговый пузырь",
+"С примерами"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1OxmrnmgORhYmVi0pCg_0Y3PLzSn2JmDc",
+"pf": "p23",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+]
+}
+],
+[
+"CCGrim N Gritty",
+"Комикрафт",
+[
+"Широкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1nVV4rhdmXrh6rLS4ydzehvFiAK1BbLuo",
+"pf": "p24",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+]
+}
+],
+[
+"CC Comicrazy",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1nNAB4P93OOZaAl4CSfBd833FAyFg0AH-",
+"pf": "p25",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+]
+}
+],
+[
+"CCMonologous",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1mnhXeCTRF1RikP0GtKnMKWSWciwVuMgK",
+"pf": "p26",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+]
+}
+],
+[
+"v_CCJimLee",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1FiWw8SyZeWRUxCoUUaPJ-P__divYQ2bM",
+"pf": "p27",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_CCAdamKubert",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1phcN7dB8LPLKnEt-85H30yIOvbjmQArd",
+"pf": "p28",
+"st": [
+"400n"
+]
+}
+],
+[
+"CCSamaritan",
+"Комикрафт",
+[
+"Широкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1S3e5elb0IIx_uqAxeov558y_p7czalNr",
+"pf": "p29",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+]
+}
+],
+[
+"CCSamaritan Tall",
+"Комикрафт",
+[
+"Узкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1Nd3eFv49nAGmurZOz0rr0IQkXKnx95fH",
+"pf": "p30",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+]
+}
+],
+[
+"v_CCKissAndTell",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь",
+"С примерами"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1CKOv5Cy1KnMz6WCBzi_P2n7GunJycEZn",
+"pf": "p31",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_CCCutthroat",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1-U06V-5cxEeKakEGod2k_TnCITTgBOsJ",
+"pf": "p32",
+"st": [
+"400n"
+]
+}
+],
+[
+"CCBrian Bolland",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1fat52us1ZU0c-Szwu2pL8ZzBkfcg8HQ4",
+"pf": "p33",
+"st": [
+"400n",
+"400i"
+]
+}
+],
+[
+"v_CCDaveGibbons",
+"Комикрафт",
+[
+"Широкий",
+"Диалоговый пузырь",
+"С примерами"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1xnuF_XzjQgBjcCUQMBCf3xKwgUvailHR",
+"pf": "p34",
+"st": [
+"400n"
+]
+}
+],
+[
+"t_Chatterbox",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1sFnNtENqJ1cRAxiRpqRTmPgdVlkvALTQ",
+"pf": "p35",
+"st": [
+"400n"
+]
+}
+],
+[
+"mr_CCLegendaryLegerdemain",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1VOc0CUmShVdqenn0aBXCdaJPL1XzMB-S",
+"pf": "p36",
+"st": [
+"400n"
+]
+}
+],
+[
+"mr_CCDigitalDelivery",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1LKrenbVTC8LTqNJVwXAIXEBW1lVCxtS6",
+"pf": "p37",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_CCSoliloquous",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1X-n5EixLCpYeGSeYZGia0j6WExQM6B_9",
+"pf": "p38",
+"st": [
+"400n"
+]
+}
+],
+[
+"el_CC Origin Story ТТ",
+"Комикрафт",
+[
+"Узкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1-YavDvotBxV1aySblWn9qx_qZn_-CSNW",
+"pf": "p39",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_CCRichardStarkings",
+"Комикрафт",
+[
+"Широкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1KMoE_xcSYLU_cPKRgNC6lr0y0ARAWRSM",
+"pf": "p40",
+"st": [
+"400n"
+]
+}
+],
+[
+"CCLadronn",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1p9QYl7WmhEyM2n1jgCWC8iFBXSg5wHCF",
+"pf": "p41",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+]
+}
+],
+[
+"mr_CCScottMcCloud",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1zTcCH1TgpcK9flZ1nMbjuYbsRNXqLheA",
+"pf": "p42",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_CCJoeMad",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1BmnDvAPwMuu6AEniFSXknC2Q4bpOgJkw",
+"pf": "a228",
+"st": [
+"400n"
+]
+}
+],
+[
+"mr_CCALikelyStory",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1iPwCipKW-StCW8kR9nhhLxUqVnPm1fyP",
+"pf": "p44",
+"st": [
+"400n",
+"400i"
+]
+}
+],
+[
+"v_CCYadaYadaYada",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1afmtZcZf7yVYQPfAAK7uOYkWIg15XSbR",
+"pf": "p45",
+"st": [
+"400n"
+]
+}
+],
+[
+"mr_CCBlahBlahBlah",
+"Комикрафт",
+[
+"Широкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1qrcAZ2VVSAJSOHKSxuppqevFEqxNcV-v",
+"pf": "p46",
+"st": [
+"400n"
+]
+}
+],
+[
+"d_CCWallScrawler",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=191OEnVTFfMAYfmLsyEIEACZ9RKPq9Iue",
+"pf": "p47",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+]
+}
+],
+[
+"d_DCEd McGuinness",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1GVGhvYOvX8is7JbZB0Wg1dQjKbdFHDTU",
+"pf": "p48",
+"st": [
+"400n",
+"400i",
+"700i"
+]
+}
+],
+[
+"k_CCRickVeitch",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=13q38-gZeatX0efOyJ9m8pV_c13X2NUsw",
+"pf": "p49",
+"st": [
+"400n"
+]
+}
+],
+[
+"CCVictorySpeech",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь",
+"С примерами"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1M_F16IS_NR-ac_utbA9KSfdoWUi7nS7l",
+"pf": "p50",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+]
+}
+],
+[
+"k_CCBryanTalbot",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь",
+"С примерами"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=19ljjfgU7O8JEtLIkNHIYI98n0tsIJije",
+"pf": "p51",
+"st": [
+"400n"
+]
+}
+],
+[
+"k_CCAskForMercy",
+"Комикрафт",
+[
+"Узкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1cuf_yR8NM1EfVrKF-Zeg_kHHrj0Wj4Mu",
+"pf": "p52",
+"st": [
+"400n"
+]
+}
+],
+[
+"k_CCTotallyAwesome",
+"Комикрафт",
+[
+"Узкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1nb5G_NU5RBdp7e168lpDWeBkg6QxeWhn",
+"pf": "p53",
+"st": [
+"400n"
+]
+}
+],
+[
+"CCMarianChurchland",
+"Комикрафт",
+[
+"Узкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=14ujyFHJlpHj-PmshQzI86r12PK7AD_aN",
+"pf": "p54",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+]
+}
+],
+[
+"v_CCTimSaleLower",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1-6RwJTdKw3dUm38PH9mG-z7f_r3SJeo5",
+"pf": "p55",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_CCCodeMonkeyVariable",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1VB42lVk6DXoRWFlAJ_ttGS62Z_-4Dqp-",
+"pf": "p56",
+"st": [
+"400n"
+]
+}
+],
+[
+"d_CCRed Star",
+"Комикрафт",
+[
+"Узкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=13Xl4F35Nr7EtQOP2m1DulPDGYJksIcoX",
+"pf": "p57",
+"st": [
+"400n"
+]
+}
+],
+[
+"Moritat",
+"Комикрафт",
+[
+"Узкий",
+"Диалоговый пузырь",
+"Воздушные"
+],
+"r",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1h6K09cmp1VxgYkzAbnsKzyNwDxpXZVqt",
+"pf": "p58",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_CCHedgeBackwardsLower",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1N8y3zoN1tUaF-1dMMEOwU00oasmNMOat",
+"pf": "p59",
+"st": [
+"400n"
+]
+}
+],
+[
+"mr_CCColleenDoran",
+"Комикрафт",
+[
+"Широкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1nski9XH1UX2_eaEbOO8IajSaZgjceeDC",
+"pf": "p60",
+"st": [
+"400n"
+]
+}
+],
+[
+"en_CCWascallyWabbit",
+"Комикрафт",
+[
+"Широкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1q2TCcSKJRCYIcCzKXpuLBIYXBQtVgGh1",
+"pf": "p61",
+"st": [
+"400n"
+]
+}
+],
+[
+"t_CCFontropolis",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1NnwXQ39N6OPznMmzhKMy_Eb0JBJcPkXx",
+"pf": "p62",
+"st": [
+"400n",
+"400i"
+]
+}
+],
+[
+"v_AstronautsInTrouble",
+"Комикрафт",
+[
+"Широкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1b85jWXpDunnYvssAcwrx3XDAGwl06m-Z",
+"pf": "p63",
+"st": [
+"400n"
+]
+}
+],
+[
+"el_CCMightyMouth",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1N45TWme24ugEGvbIP2Jf3NdSWkM-emi_",
+"pf": "p64",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_CCJeffCampbell",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь",
+"С примерами"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1LdpZVpUdVhOLPF1dYuoJFp-zTo7L7XxK",
+"pf": "p65",
+"st": [
+"400n"
+]
+}
+],
+[
+"CCMadScientist",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1AUjTPSx5LDPZaWMI4x9-0B7MHrr1Ly5t",
+"pf": "s0",
+"st": [
+"400n",
+"700n"
+]
+}
+],
+[
+"cchellshock",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=10d32DNOfrFl_u-Z-rOKMySIcEQKO-weV",
+"pf": "s1",
+"st": [
+"400n"
+]
+}
+],
+[
+"CCSpookytooth",
+"Комикрафт",
+[
+"Широкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1eCfgQqyjyqCJhe_sjo0I4kanYA2ExT6X",
+"pf": "s2",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+]
+}
+],
+[
+"d_CCRassum Frassum",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1zLzAsDskOGoHqgw0iNamHzCCmFH8VRiV",
+"pf": "s3",
+"st": [
+"400n",
+"700n"
+]
+}
+],
+[
+"d_CCPascual Ferry",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=13VOm9-KCN9bIWUlfu_6O6TiCTqj0yNcP",
+"pf": "s4",
+"st": [
+"400n",
+"400i",
+"700i"
+]
+}
+],
+[
+"mr_CCMikeWieringo",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1iMzzwqLeobii4IBMv8hJYRTzZu_qtyLq",
+"pf": "s5",
+"st": [
+"400n"
+]
+}
+],
+[
+"mr_CCToughTalk",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1Mfn_H22JJZCABmMGb1z0N6P04TY3fMiI",
+"pf": "a147",
+"st": [
+"400n"
+]
+}
+],
+[
+"el_CC Mike Kunkel",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь",
+"Воздушные"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1uRbrjebEiYkxlh_cL_uudoCAhP7D-SH4",
+"pf": "a321",
+"st": [
+"400n"
+]
+}
+],
+[
+"d_Dan Panoasian",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1mfVA33L5_z-b1dKYqzaMbjDGncfpabRJ",
+"pf": "s8",
+"st": [
+"400n"
+]
+}
+],
+[
+"mr_CCEvilDoings",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1INLaneo3krED5FP43hkmT-Fn_CUkKrYh",
+"pf": "s9",
+"st": [
+"400n"
+]
+}
+],
+[
+"k_Cloudsplitter UC BB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь",
+"С примерами"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1B_zI_7vHwXuov3_IcVpJqU9bBlytXO9C",
+"pf": "p76",
+"st": [
+"400n"
+]
+}
+],
+[
+"en_Plot Holes BB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь",
+"С примерами"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=15xrwO74GqaALqOdo5wxe0TbpefRjPxqE",
+"pf": "p77",
+"st": [
+"400n"
+]
+}
+],
+[
+"t_Spinner Rack Pro BB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=133HJSH_aaxyQiIikcS7V7BPM6nQXEFzd",
+"pf": "p78",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+]
+}
+],
+[
+"v_PiekosProfessionalBB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1q3X6OOkltdBBFfBgJLPJ4iQePJHdF0-G",
+"pf": "p79",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_SmackAttack BB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1KHRaj_TGI0bG-ZXjz4R4QGBWu3PmSwuL",
+"pf": "p80",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_SilverAgeLCBB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1lMACpAbLa3LnlEG5BAzJBZKdyCHq6tZ5",
+"pf": "p81",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_SequentialistBB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1ZyVd2JcF-8jU6-YhbTO6adhuwXmEOEBB",
+"pf": "p82",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_UnmaskedBB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1goFq5zRNzFRd_oJFru8xJaNDAuYMTRIo",
+"pf": "p83",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_10CentComics",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1XR-leFikwF1LQTreCqtmgTFvUvQBiUcP",
+"pf": "p84",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_MangaMasterBB",
+"Бламбот",
+[
+"Узкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=145fnl1kUtu8AHvOYS2LjVMS_HuRZqJlv",
+"pf": "p85",
+"st": [
+"400n"
+]
+}
+],
+[
+"el_Ready for Anything",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь",
+"С примерами"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=18jVNxNXLfdhOsGwX8sv3whvzNwZcHTmJ",
+"pf": "p86",
+"st": [
+"400n"
+]
+}
+],
+[
+"Out of Line Pro BB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь",
+"С примерами"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1RdMwN93gTZiSOMxaIzYuWnP8Ua7ZTTB1",
+"pf": "p87",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+]
+}
+],
+[
+"v_DutyCalls BB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1xWcQ1itdbpK4_OksomJFUTDF8rlOz3hY",
+"pf": "p88",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_CollectEmAllBB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1noizbsBXPft2yaEW-2KPfkCJWJjqKLZg",
+"pf": "p89",
+"st": [
+"400n"
+]
+}
+],
+[
+"en_Nerves of Steel BB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1A0nPTBc-MaHgDsNFLaJCyUUbJDdbd3mQ",
+"pf": "p90",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+]
+}
+],
+[
+"v_EvilGenius BB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=12yJ6uoe9rQg5yU6Nh1eLGRcQow-ndus5",
+"pf": "a242",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_DigitalStrip",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1rwYNg6HktNVMuiQ2YeY2tw4HmLh0HBHG",
+"pf": "p92",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_DigitalStrip 2",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1yr82mi2INcJ3tx4H5c_XdJlwZw66wPJX",
+"pf": "p93",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_EuroComic",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1jxsC8JW7DytxwEh2_8gDf4XGchl8cQCV",
+"pf": "p94",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_ManlyMenBB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1UC0DpxO00AeEYGs1ENWo8V3i1kl39QwE",
+"pf": "p95",
+"st": [
+"400n"
+]
+}
+],
+[
+"MightMakesRightBB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1FBNzEkYIGlFx8KAwPqsgJPMoDD2PcYa3",
+"pf": "p96",
+"st": [
+"400n"
+]
+}
+],
+[
+"d_BBJack Armstrong",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1TRzo1Gvx9N6cuHxukKvkF521qeMHMosl",
+"pf": "p97",
+"st": [
+"400n",
+"400i",
+"700i"
+]
+}
+],
+[
+"v_BackIssuesBB",
+"Бламбот",
+[
+"Широкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1q08yACcyBGyYdZNe337RNDQ_XL58zkB1",
+"pf": "p98",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_BillyTheFlyingRobotBBLC",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1AZXjBoyHMxY6yJLXlzeK2AcpdHVPfN6o",
+"pf": "p99",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_Lint McCree BB",
+"Бламбот",
+[
+"Широкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1ZX4bUqH8rjW5c24ubWunJ3jSzZL5JBUb",
+"pf": "p100",
+"st": [
+"400n"
+]
+}
+],
+[
+"k_BlambotClassicBB",
+"Бламбот",
+[
+"Широкий",
+"Диалоговый пузырь",
+"С примерами"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=17EPMqCT7UltnZ6Re3peTAwFpruJtqHUN",
+"pf": "p101",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_SpectreVerdeBB",
+"Бламбот",
+[
+"Широкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1jFubfdMwdU-5lDTkXRwLjtedT4eRK1KX",
+"pf": "p102",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_AlterEgo BB",
+"Бламбот",
+[
+"Широкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=13z-p6fl85uvj9iOtbVZGuueEbL9s4H7i",
+"pf": "p103",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_SundayComics BB",
+"Бламбот",
+[
+"Широкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=14-DdJKZ-1esn5lhqskKr8L9NM-xOe-ZX",
+"pf": "p104",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_HiredGoonsBB",
+"Бламбот",
+[
+"Широкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1gP7o76rzHlOUfoP3g__r5QksXNvuO7HZ",
+"pf": "p105",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_InkslingerLCBB",
+"Бламбот",
+[
+"Широкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1Rkekenc7FDMmHQUsi556g-zhFeOyO9L-",
+"pf": "p106",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_HometownHeroBB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1hiLYPe6U3XSLP11RbAcMiMkYE4ET7cgo",
+"pf": "p107",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_CrimeFighterBB",
+"Бламбот",
+[
+"Широкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=12-aId85OGWoCzOi438rV3eRWyZcJpwip",
+"pf": "p108",
+"st": [
+"400n"
+]
+}
+],
+[
+"mr_AntiHero",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1cQ46ts5z9BS2qbEqXa2DhknE8z8dGXOn",
+"pf": "p109",
+"st": [
+"400n"
+]
+}
+],
+[
+"mr_HundredWattBB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1vsC080C3UTyJRfF187lINrKgE2LBmLiC",
+"pf": "s10",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_Blambot Casual",
+"Бламбот",
+[
+"Узкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1AHKZVTXcKVlWLEuzC_egYWgpnsnAPVuX",
+"pf": "p111",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_LetterOMatic!",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=13pc3-AVwnT8EChWHVyIO_w4wl7wLf11h",
+"pf": "p112",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_MightyZeo2.0",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1UAoMGsSPqjN-emrjaZq76QZrd50KqqhA",
+"pf": "p113",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_Nightwatcher BB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1QCAkmkdvAHGjLyFFKhVmAJqorUGMcUKa",
+"pf": "p114",
+"st": [
+"400n"
+]
+}
+],
+[
+"k_Tight Spot BB",
+"Бламбот",
+[
+"Узкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1N_FHHOmm7SCT-uhOReBoFj3nOboV-wun",
+"pf": "p115",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_GiantSizedSpectacular",
+"Бламбот",
+[
+"Узкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1oLWpw6k4EvmPU3dBTmvm_wG7hGdbXwFC",
+"pf": "p116",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_MilkMustacheBB",
+"Бламбот",
+[
+"Узкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1oZa1do_wforZFpK4VpHkXAexFtqGlNee",
+"pf": "p117",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_ChewedPenBB",
+"Бламбот",
+[
+"Узкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=13XoclezH-ai3vSLPtc-kCLUMWJcp_raL",
+"pf": "p118",
+"st": [
+"400n"
+]
+}
+],
+[
+"l_ArtistsAlleyBB",
+"Бламбот",
+[
+"Узкий",
+"Диалоговый пузырь"
+],
+"r",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1wvMKRd5iwEy9SIyA_XTFow08SYtmUfkp",
+"pf": "p119",
+"st": [
+"400n"
+]
+}
+],
+[
+"mr_ImaginaryFriendBB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь",
+"Воздушные"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1At6FXA0tiN8x9zpAGbwL96_UtHg9Ts01",
+"pf": "p120",
+"st": [
+"400n"
+]
+}
+],
+[
+"mr_ActionFigureBB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1sGU_Ih2rnmYEu82zFQZ8h1XpM1QLI6Cz",
+"pf": "p121",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_BottleRocket BB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1mIWS-i3zjg4SV8Xgc1Zr9oPKskU77XhN",
+"pf": "a230",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_RedStateBlueState",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1l3yRzCOmhcPLu7VQ_qIEyOgG50Hc_-_Y",
+"pf": "s12",
+"st": [
+"400n",
+"700n"
+]
+}
+],
+[
+"v_BlambotFXProBB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1jIX_zEW3r_cmdymnCCX0QzI7O6zmuCX_",
+"pf": "s13",
+"st": [
+"300n",
+"700n"
+]
+}
+],
+[
+"mr_StupidHeadBB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1P2b4g_cn8vAKfhWNKO5NHqN0eo7g7CHP",
+"pf": "s14",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_CreativeBlock BB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=11VTSidg-nBdoqEBYWS9GKFBTvzJZP3GM",
+"pf": "a174",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_Atland BB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1Ysy_TZlCU859RPzMCH-yQNitpdWDHHzg",
+"pf": "a231",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_StraightJacket BB",
+"Бламбот",
+[
+"Узкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1qKmy6GhsslvciMM4iDGOPpe0ujzQSLzc",
+"pf": "a160",
+"st": [
+"400n"
+]
+}
+],
+[
+"Comic CAT",
+"Любой другой",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"f",
+24,
+"ext",
+{
+"u": "https://drive.google.com/drive/folders/11ConVw-dFoZj9fir0Djw9CZvs0W9IJGw",
+"pf": "q0",
+"st": [
+"400i"
+]
+}
+],
+[
+"k_KomikaSlim",
+"Любой другой",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/drive/folders/1eTWGGV5tT4_JFnhGt5yMiQXOGScFyjI-",
+"pf": "q1",
+"st": [
+"400n"
+]
+}
+],
+[
+"k_Secret Wurps",
+"Любой другой",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/drive/folders/1tYpVg1dGwbMtl0Tqz0MyPvf37Er-1VGW",
+"pf": "q8",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_WurmicsBravura",
+"Любой другой",
+[
+"Средний",
+"Диалоговый пузырь",
+"С примерами"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/drive/folders/1SzRKNMLg74lf1sU35pktEVBWhW36It95",
+"pf": "p133",
+"st": [
+"400n"
+]
+}
+],
+[
+"CDX Starstreak",
+"Любой другой",
+[
+"Узкий",
+"Диалоговый пузырь"
+],
+"fr",
+24,
+"ext",
+{
+"u": "https://drive.google.com/drive/folders/1QOl2vOa86uVm8etPUzMjKKV5LbENnYA0",
+"pf": "p134",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+]
+}
+],
+[
+"Festa",
+"Любой другой",
+[
+"Узкий",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/drive/folders/1Y7KsrCBWrbQYOdCgyeSvsN3u5SC1B28J",
+"pf": "q2",
+"st": [
+"300n",
+"400n",
+"600n",
+"700n",
+"300i",
+"400i",
+"600i",
+"700i"
+]
+}
+],
+[
+"Angeme",
+"Любой другой",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"f",
+24,
+"ext",
+{
+"u": "https://drive.google.com/drive/folders/1ZI1XbpG__GKY-M8nAww70hvDtaEdQARu",
+"pf": "q3",
+"st": [
+"400n",
+"700n"
+]
+}
+],
+[
+"AmazGoDa",
+"Любой другой",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"f",
+24,
+"ext",
+{
+"u": "https://drive.google.com/drive/folders/1DQvwDQ_idN7Vvu6-HBx6MoyJtcX6zjJu",
+"pf": "q4",
+"st": [
+"400n",
+"700n"
+]
+}
+],
+[
+"Kurai voice 2",
+"Любой другой",
+[
+"Средний",
+"Диалоговый пузырь",
+"С примерами"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/drive/folders/1OBblgrOu6PeJJ0HyjS808DJsHSwsgzvv",
+"pf": "q5",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+]
+}
+],
+[
+"Wild Words",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/drive/folders/1DavuL8PZg_u1y2DyGv08UnsBRgwxZrJM",
+"pf": "p140",
+"st": [
+"400n",
+"700n",
+"400i",
+"700i"
+]
+}
+],
+[
+"TroubleSide (by Kisliy)",
+"Любой другой",
+[
+"Средний",
+"Диалоговый пузырь",
+"С примерами"
+],
+"f",
+24,
+"ext",
+{
+"u": "https://drive.google.com/drive/folders/1JrLAocFbvngjrp0c93-miWjDfSNtlSJ2",
+"pf": "p141",
+"st": [
+"300n",
+"400n",
+"700n",
+"300i",
+"400i",
+"700i"
+]
+}
+],
+[
+"v_ACMESecretAgent",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1O_aA-OD9nBcgQQJo4M3GcUB2MGGvY9su",
+"pf": "p142",
+"st": [
+"400n"
+]
+}
+],
+[
+"v_AnimeAce2.0BB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=1_ozPLATnsmBokRNH5DgdJCW7ZyXX9INq",
+"pf": "p143",
+"st": [
+"400n"
+]
+}
+],
+[
+"CCYouBlockhead",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь",
+"Толстяк"
+],
+"",
+24,
+"ext",
+{
+"pf": "a139",
+"st": [
+"400n"
+],
+"u": "fonts/ccyoublockhead.zip"
+}
+],
+[
+"d_CCAncient Astronaut",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a149",
+"st": [
+"700n"
+],
+"u": "fonts/d-ccancient-astronaut.zip"
+}
+],
+[
+"CCZzzap",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a129",
+"st": [
+"400n"
+],
+"u": "fonts/cczzzap.zip"
+}
+],
+[
+"el_CCHammerHorror",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a151",
+"st": [
+"400n"
+],
+"u": "fonts/el-cchammerhorror.zip"
+}
+],
+[
+"el_CCSanctumSanctorum",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь",
+"Фантастические и мифические"
+],
+"",
+24,
+"ext",
+{
+"pf": "a153",
+"st": [
+"400n"
+],
+"u": "fonts/el-ccsanctumsanctorum.zip"
+}
+],
+[
+"p_CCRoughTongue",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a146",
+"st": [
+"400n"
+],
+"u": "fonts/p-ccroughtongue.zip"
+}
+],
+[
+"UA_CC_Stonehenge",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь",
+"Исторический & народный"
+],
+"",
+24,
+"ext",
+{
+"pf": "a141",
+"st": [
+"400n"
+],
+"u": "fonts/ua-cc-stonehenge.zip"
+}
+],
+[
+"v_CCAlchemite",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь",
+"Фантастические и мифические"
+],
+"",
+24,
+"ext",
+{
+"pf": "a131",
+"st": [
+"400n"
+],
+"u": "fonts/v-ccalchemite.zip"
+}
+],
+[
+"v_CCBiffBamBoom",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь",
+"Толстяк"
+],
+"",
+24,
+"ext",
+{
+"pf": "a156",
+"st": [
+"400n"
+],
+"u": "fonts/v-ccbiffbamboom.zip"
+}
+],
+[
+"v_CCFairyTale",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь",
+"Фантастические и мифические"
+],
+"",
+24,
+"ext",
+{
+"pf": "a152",
+"st": [
+"400n"
+],
+"u": "fonts/v-ccfairytale.zip"
+}
+],
+[
+"v_CCForkedTongue",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a157",
+"st": [
+"400n"
+],
+"u": "fonts/v-ccforkedtongue.zip"
+}
+],
+[
+"v_CCPrimalScream",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a154",
+"st": [
+"400n"
+],
+"u": "fonts/v-ccprimalscream.zip"
+}
+],
+[
+"v_CCRatatatat",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь",
+"Толстяк"
+],
+"",
+24,
+"ext",
+{
+"pf": "a137",
+"st": [
+"400n"
+],
+"u": "fonts/v-ccratatatat.zip"
+}
+],
+[
+"v_CCRumble",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a130",
+"st": [
+"400n"
+],
+"u": "fonts/v-ccrumble.zip"
+}
+],
+[
+"v_CCSoothsayer",
+"Комикрафт",
+[
+"Средний",
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"pf": "a143",
+"st": [
+"400n"
+],
+"u": "fonts/v-ccsoothsayer.zip"
+}
+],
+[
+"a_BBAstounderSquared",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь",
+"Толстяк"
+],
+"",
+24,
+"ext",
+{
+"pf": "a183",
+"st": [
+"400n"
+],
+"u": "fonts/a-bbastoundersquared.zip"
+}
+],
+[
+"d_BBBarBrawl",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a161",
+"st": [
+"400n"
+],
+"u": "fonts/d-bbbarbrawl.zip"
+}
+],
+[
+"d_BBShrunken Head",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a158",
+"st": [
+"400n"
+],
+"u": "fonts/d-bbshrunken-head.zip"
+}
+],
+[
+"v_AleAndWenchesBB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь",
+"Исторический & народный"
+],
+"",
+24,
+"ext",
+{
+"pf": "a162",
+"st": [
+"400n"
+],
+"u": "fonts/v-aleandwenchesbb.zip"
+}
+],
+[
+"v_Belizarius",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a307",
+"st": [
+"400n"
+],
+"u": "fonts/v-belizarius.zip"
+}
+],
+[
+"v_BlamBlamHeavyBB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a169",
+"st": [
+"400n"
+],
+"u": "fonts/v-blamblamheavybb.zip"
+}
+],
+[
+"v_DeathRattle BB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a171",
+"st": [
+"400n"
+],
+"u": "fonts/v-deathrattle-bb.zip"
+}
+],
+[
+"v_DragonbonesBB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь",
+"Фантастические и мифические"
+],
+"",
+24,
+"ext",
+{
+"pf": "a166",
+"st": [
+"400n"
+],
+"u": "fonts/v-dragonbonesbb.zip"
+}
+],
+[
+"v_EntrailsBB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a170",
+"st": [
+"400n"
+],
+"u": "fonts/v-entrailsbb.zip"
+}
+],
+[
+"v_ManEaterBB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a172",
+"st": [
+"700n"
+],
+"u": "fonts/v-maneaterbb.zip"
+}
+],
+[
+"v_MaroonedOnMarsBB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a180",
+"st": [
+"400n"
+],
+"u": "fonts/v-maroonedonmarsbb.zip"
+}
+],
+[
+"v_NinjutsuBB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a177",
+"st": [
+"400n"
+],
+"u": "fonts/v-ninjutsubb.zip"
+}
+],
+[
+"v_TwoFistedAltBB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a330",
+"st": [
+"400n"
+],
+"u": "fonts/v-twofistedaltbb.zip"
+}
+],
+[
+"v_VengefulGodsBB",
+"Бламбот",
+[
+"Средний",
+"Диалоговый пузырь",
+"Исторический & народный"
+],
+"",
+24,
+"ext",
+{
+"pf": "a181",
+"st": [
+"400n"
+],
+"u": "fonts/v-vengefulgodsbb.zip"
+}
+],
+[
+"Just Breathe",
+"Любой другой",
+[
+"Рукописный",
+"Диалоговый пузырь",
+"Средний",
+"Неряшливая выноска"
+],
+"f",
+24,
+"ext",
+{
+"pf": "a200",
+"st": [
+"400i",
+"400n"
+],
+"vr": [
+{
+"n": "Two",
+"pf": "u30",
+"st": [
+"400n"
+]
+},
+{
+"n": "Three",
+"pf": "u31",
+"st": [
+"400n",
+"700n"
+]
+},
+{
+"n": "Four",
+"pf": "u32",
+"st": [
+"400n"
+]
+},
+{
+"n": "Five",
+"pf": "u33",
+"st": [
+"400n"
+]
+},
+{
+"n": "Seven",
+"pf": "u34",
+"st": [
+"400n",
+"700n"
+]
+}
+],
+"u": "fonts/just-breathe-2.zip"
+}
+],
+[
+"Mango(RUS BY LYAJKA)",
+"Любой другой",
+[
+"Рукописный",
+"Диалоговый пузырь",
+"Звук",
+"Округлые (вкусные)",
+"Средний"
+],
+"",
+24,
+"ext",
+{
+"u": "https://drive.google.com/uc?export=download&id=19zhYjuGnx4ohQyyZQ6rj7YwDtvZbZEtC",
+"pf": "a0",
+"st": [
+"400n"
+]
+}
+],
+[
+"AC Line",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a8",
+"st": [
+"400n"
+],
+"u": "fonts/ac-line.zip"
+}
+],
+[
+"AKONY",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+18,
+"ext",
+{
+"pf": "a9",
+"st": [
+"700n"
+],
+"u": "fonts/akony.zip"
+}
+],
+[
+"Anka/Coder",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a10",
+"st": [
+"400i",
+"400n",
+"700i",
+"700n"
+],
+"u": "fonts/anka-coder.zip"
+}
+],
+[
+"Bedstead",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a12",
+"st": [
+"500n"
+],
+"u": "fonts/bedstead.zip"
+}
+],
+[
+"Bender",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a13",
+"st": [
+"300i",
+"300n",
+"400i",
+"400n",
+"700i",
+"700n",
+"900i",
+"900n"
+],
+"u": "fonts/bender.zip"
+}
+],
+[
+"Bewlay Br1 Cyrillic",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a14",
+"st": [
+"400n"
+],
+"u": "fonts/bewlay-br1-cyrillic.zip"
+}
+],
+[
+"Bicubik",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a15",
+"st": [
+"400n"
+],
+"u": "fonts/bicubik.zip"
+}
+],
+[
+"Bombardier",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a16",
+"st": [
+"400n"
+],
+"u": "fonts/bombardier.zip"
+}
+],
+[
+"Buyan",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a17",
+"st": [
+"300n",
+"400n",
+"700n"
+],
+"u": "fonts/buyan.zip"
+}
+],
+[
+"CCElephantmenAged",
+"Комикрафт",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a18",
+"st": [
+"400i",
+"400n"
+],
+"u": "fonts/ccelephantmenaged.zip"
+}
+],
+[
+"CCElephantmenGreat",
+"Комикрафт",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a19",
+"st": [
+"400i",
+"400n",
+"700i",
+"700n"
+],
+"u": "fonts/ccelephantmengreat.zip"
+}
+],
+[
+"CCElephantmen",
+"Комикрафт",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a20",
+"st": [
+"400i",
+"400n"
+],
+"u": "fonts/ccelephantmen.zip"
+}
+],
+[
+"CCElephantmenTall",
+"Комикрафт",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a21",
+"st": [
+"400i",
+"400n",
+"700i",
+"700n"
+],
+"u": "fonts/ccelephantmentall.zip"
+}
+],
+[
+"CCSpaceRace",
+"Комикрафт",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a22",
+"st": [
+"400i",
+"400n",
+"700i",
+"700n"
+],
+"u": "fonts/ccspacerace.zip"
+}
+],
+[
+"CCUltimatumForce",
+"Комикрафт",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a23",
+"st": [
+"300i",
+"300n",
+"400i",
+"400n",
+"700i",
+"700n",
+"900i",
+"900n"
+],
+"u": "fonts/ccultimatumforce.zip"
+}
+],
+[
+"CCUltimatumMass",
+"Комикрафт",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a24",
+"st": [
+"300i",
+"300n",
+"400i",
+"400n",
+"700i",
+"700n",
+"900i",
+"900n"
+],
+"u": "fonts/ccultimatummass.zip"
+}
+],
+[
+"CCUltimatumVelocity",
+"Комикрафт",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a25",
+"st": [
+"300i",
+"300n",
+"400i",
+"400n",
+"700i",
+"700n",
+"900i",
+"900n"
+],
+"u": "fonts/ccultimatumvelocity.zip"
+}
+],
+[
+"CLURBANTIK",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a26",
+"st": [
+"400n"
+],
+"u": "fonts/clurbantik.zip"
+}
+],
+[
+"DaMiOne",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a27",
+"st": [
+"400n"
+],
+"u": "fonts/damione.zip"
+}
+],
+[
+"dcrane_CC FXMachina",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a28",
+"st": [
+"400n"
+],
+"u": "fonts/dcrane-cc-fxmachina.zip"
+}
+],
+[
+"Design System",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a29",
+"st": [
+"900n"
+],
+"u": "fonts/design-system.zip"
+}
+],
+[
+"Draughtsman A",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a30",
+"st": [
+"400i",
+"400n"
+],
+"u": "fonts/draughtsman-a.zip"
+}
+],
+[
+"Eternal Ancient",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a31",
+"st": [
+"400n"
+],
+"u": "fonts/eternal-ancient.zip"
+}
+],
+[
+"Eternal Logo",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a32",
+"st": [
+"400n"
+],
+"u": "fonts/eternal-logo.zip"
+}
+],
+[
+"Eternal UI",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a33",
+"st": [
+"400n",
+"700n"
+],
+"u": "fonts/eternal-ui.zip"
+}
+],
+[
+"FatGrot",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a34",
+"st": [
+"400n"
+],
+"u": "fonts/fatgrot.zip"
+}
+],
+[
+"Flexi IBM VGA True",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a35",
+"st": [
+"400n"
+],
+"u": "fonts/flexi-ibm-vga-true.zip"
+}
+],
+[
+"GOST type A",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a36",
+"st": [
+"400n"
+],
+"u": "fonts/gost-type-a.zip"
+}
+],
+[
+"GOST Type AU",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a37",
+"st": [
+"400n"
+],
+"u": "fonts/gost-type-au.zip"
+}
+],
+[
+"GOST type B",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a38",
+"st": [
+"400n"
+],
+"u": "fonts/gost-type-b.zip"
+}
+],
+[
+"GOST Type BU",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a39",
+"st": [
+"400n"
+],
+"u": "fonts/gost-type-bu.zip"
+}
+],
+[
+"Hooskai Chamfered Square",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a40",
+"st": [
+"400n"
+],
+"u": "fonts/hooskai-chamfered-square.zip"
+}
+],
+[
+"Jura",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a41",
+"st": [
+"300n",
+"400n",
+"500n",
+"600n",
+"700n"
+],
+"u": "fonts/jura.zip"
+}
+],
+[
+"UA_Porsche",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a42",
+"st": [
+"400n"
+],
+"u": "fonts/ua-porsche.zip"
+}
+],
+[
+"UA_Radio_Stars",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a43",
+"st": [
+"400n"
+],
+"u": "fonts/ua-radio-stars.zip"
+}
+],
+[
+"v_MandroidBB",
+"Бламбот",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a44",
+"st": [
+"400n"
+],
+"u": "fonts/v-mandroidbb.zip"
+}
+],
+[
+"mr_VlaShu",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a45",
+"st": [
+"400n"
+],
+"u": "fonts/mr-vlashu.zip"
+}
+],
+[
+"Wadik",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a46",
+"st": [
+"700n"
+],
+"u": "fonts/wadik.zip"
+}
+],
+[
+"mr_DacikPush",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a47",
+"st": [
+"400n"
+],
+"u": "fonts/mr-dacikpush.zip"
+}
+],
+[
+"mr_Fontick",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a48",
+"st": [
+"400n"
+],
+"u": "fonts/mr-fontick.zip"
+}
+],
+[
+"Jx Tabe DEMO",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a49",
+"st": [
+"300n",
+"400n"
+],
+"u": "fonts/jx-tabe-demo.zip"
+}
+],
+[
+"Maassslicer",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a50",
+"st": [
+"400i"
+],
+"u": "fonts/maassslicer.zip"
+}
+],
+[
+"Maassslicer3D",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a51",
+"st": [
+"400i"
+],
+"u": "fonts/maassslicer3d.zip"
+}
+],
+[
+"Marske",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a52",
+"st": [
+"500n"
+],
+"u": "fonts/marske.zip"
+}
+],
+[
+"Miratrix",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a53",
+"st": [
+"400n"
+],
+"u": "fonts/miratrix.zip"
+}
+],
+[
+"mr_AdventureSubtitlesG",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a54",
+"st": [
+"400n"
+],
+"u": "fonts/mr-adventuresubtitlesg.zip"
+}
+],
+[
+"mr_AstrolyteG",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a55",
+"st": [
+"400n"
+],
+"u": "fonts/mr-astrolyteg.zip"
+}
+],
+[
+"Nikoleta",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a56",
+"st": [
+"400n"
+],
+"u": "fonts/nikoleta.zip"
+}
+],
+[
+"p_Maximal Beasts",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a57",
+"st": [
+"400n"
+],
+"u": "fonts/p-maximal-beasts.zip"
+}
+],
+[
+"Radiotechnika",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a58",
+"st": [
+"400n"
+],
+"u": "fonts/radiotechnika.zip"
+}
+],
+[
+"Robtronika",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a59",
+"st": [
+"400i",
+"400n"
+],
+"u": "fonts/robtronika.zip"
+}
+],
+[
+"ST-SimpleSquare",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a60",
+"st": [
+"400n"
+],
+"u": "fonts/st-simplesquare.zip"
+}
+],
+[
+"Tablon",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a61",
+"st": [
+"400n",
+"500n",
+"900n"
+],
+"u": "fonts/tablon.zip"
+}
+],
+[
+"Tektur",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a62",
+"st": [
+"400n",
+"500n",
+"600n",
+"700n",
+"900n"
+],
+"u": "fonts/tektur.zip"
+}
+],
+[
+"Terminator Cyr",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a63",
+"st": [
+"700n"
+],
+"u": "fonts/terminator-cyr.zip"
+}
+],
+[
+"UA_Ethnocentric",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a64",
+"st": [
+"400n"
+],
+"u": "fonts/ua-ethnocentric.zip"
+}
+],
+[
+"UA_Flatiron_ITC_TT",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a65",
+"st": [
+"400n"
+],
+"u": "fonts/ua-flatiron-itc-tt.zip"
+}
+],
+[
+"UA_Maximal_Beasts",
+"Любой другой",
+[
+"Механический",
+"Гротеск"
+],
+"",
+24,
+"ext",
+{
+"pf": "a66",
+"st": [
+"500n"
+],
+"u": "fonts/ua-maximal-beasts.zip"
+}
+],
+[
+"mr_CCMikeWieringoG",
+"Комикрафт",
+[
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"pf": "a132",
+"st": [
+"400n"
+],
+"u": "fonts/mr-ccmikewieringog.zip"
+}
+],
+[
+"mr_CCEvilDoingsRegularG",
+"Комикрафт",
+[
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"pf": "a133",
+"st": [
+"400n"
+],
+"u": "fonts/mr-ccevildoingsregularg.zip"
+}
+],
+[
+"mr_CCSignLanguageG",
+"Комикрафт",
+[
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"pf": "a134",
+"st": [
+"400n"
+],
+"u": "fonts/mr-ccsignlanguageg.zip"
+}
+],
+[
+"p_CCGrimlyFiendish-Regular",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a135",
+"st": [
+"400n"
+],
+"u": "fonts/p-ccgrimlyfiendish-regular.zip"
+}
+],
+[
+"CCDreamlandLower",
+"Комикрафт",
+[
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"pf": "a136",
+"st": [
+"400n"
+],
+"u": "fonts/ccdreamlandlower.zip"
+}
+],
+[
+"mr_CCObeyObeyObeyG",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Исторический & народный"
+],
+"",
+24,
+"ext",
+{
+"pf": "a138",
+"st": [
+"400n"
+],
+"u": "fonts/mr-ccobeyobeyobeyg.zip"
+}
+],
+[
+"CCHellshock(RUS BY LYAJKA)",
+"Комикрафт",
+[
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"pf": "a140",
+"st": [
+"400n"
+],
+"u": "fonts/cchellshock-rus-by-lyajka.zip"
+}
+],
+[
+"mr_CCMonstrosityBrainG",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a142",
+"st": [
+"400n"
+],
+"u": "fonts/mr-ccmonstrositybraing.zip"
+}
+],
+[
+"mr_CCRigorMortisG",
+"Комикрафт",
+[
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"pf": "a144",
+"st": [
+"700n"
+],
+"u": "fonts/mr-ccrigormortisg.zip"
+}
+],
+[
+"mr_CCMeltdownG",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a145",
+"st": [
+"500n"
+],
+"u": "fonts/mr-ccmeltdowng.zip"
+}
+],
+[
+"d_Dan Panoasian Regular",
+"Комикрафт",
+[
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"pf": "a150",
+"st": [
+"400n"
+],
+"u": "fonts/d-dan-panoasian-regular.zip"
+}
+],
+[
+"mr_CCGeekSpeakG",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Толстяк"
+],
+"",
+24,
+"ext",
+{
+"pf": "a155",
+"st": [
+"700n"
+],
+"u": "fonts/mr-ccgeekspeakg.zip"
+}
+],
+[
+"mr_FreshMeatBBG",
+"Бламбот",
+[
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a331",
+"st": [
+"400n"
+],
+"u": "fonts/mr-freshmeatbbg.zip"
+}
+],
+[
+"mr_BigBadBoldBBG",
+"Бламбот",
+[
+"Диалоговый пузырь",
+"Толстяк"
+],
+"",
+24,
+"ext",
+{
+"pf": "a167",
+"st": [
+"400n"
+],
+"u": "fonts/mr-bigbadboldbbg.zip"
+}
+],
+[
+"mr_ScreamQueenBBG",
+"Бламбот",
+[
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a168",
+"st": [
+"400n"
+],
+"u": "fonts/mr-screamqueenbbg.zip"
+}
+],
+[
+"mr_MondoBeyondoBBG",
+"Бламбот",
+[
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a173",
+"st": [
+"400n"
+],
+"u": "fonts/mr-mondobeyondobbg.zip"
+}
+],
+[
+"mr_HundredWattBBG",
+"Бламбот",
+[
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"pf": "a175",
+"st": [
+"400n"
+],
+"u": "fonts/mr-hundredwattbbg.zip"
+}
+],
+[
+"mr_StupidHeadBBG",
+"Бламбот",
+[
+"Диалоговый пузырь"
+],
+"",
+24,
+"ext",
+{
+"pf": "a322",
+"st": [
+"400n"
+],
+"u": "fonts/mr-stupidheadbbg.zip"
+}
+],
+[
+"mr_BeelzebrushBBG",
+"Бламбот",
+[
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a178",
+"st": [
+"400n"
+],
+"u": "fonts/mr-beelzebrushbbg.zip"
+}
+],
+[
+"v_BadaBoom BB",
+"Бламбот",
+[
+"Диалоговый пузырь",
+"Толстяк"
+],
+"",
+24,
+"ext",
+{
+"pf": "a182",
+"st": [
+"400n"
+],
+"u": "fonts/v-badaboom-bb.zip"
+}
+],
+[
+"mr_KillCrazyBBG",
+"Бламбот",
+[
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a334",
+"st": [
+"400n"
+],
+"u": "fonts/mr-killcrazybbg.zip"
+}
+],
+[
+"v_Augie-Thin",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a220",
+"st": [
+"400n"
+],
+"u": "fonts/v-augie-thin.zip"
+}
+],
+[
+"Romochka",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a186",
+"st": [
+"400n"
+],
+"u": "fonts/romochka.zip"
+}
+],
+[
+"Teslic`s Document CyrFix",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a187",
+"st": [
+"400n"
+],
+"u": "fonts/teslic-s-document-cyrfix.zip"
+}
+],
+[
+"asinastra",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a188",
+"st": [
+"400n"
+],
+"u": "fonts/asinastra.zip"
+}
+],
+[
+"Kurland",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a189",
+"st": [
+"400n"
+],
+"u": "fonts/kurland.zip"
+}
+],
+[
+"Kom-post",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a190",
+"st": [
+"400n"
+],
+"u": "fonts/kom-post.zip"
+}
+],
+[
+"AuktyonZ",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a191",
+"st": [
+"400n",
+"700n"
+],
+"u": "fonts/auktyonz.zip"
+}
+],
+[
+"v_Augie",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a192",
+"st": [
+"400n"
+],
+"u": "fonts/v-augie.zip"
+}
+],
+[
+"r_Thad",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a193",
+"st": [
+"500n"
+],
+"u": "fonts/r-thad.zip"
+}
+],
+[
+"Casual Chat",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a197",
+"st": [
+"400n"
+],
+"u": "fonts/casual-chat.zip"
+}
+],
+[
+"v_Dadhand_ItchyFeet4",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a198",
+"st": [
+"400n"
+],
+"u": "fonts/v-dadhand-itchyfeet4.zip"
+}
+],
+[
+"laCartoonerie(RUS BY LYAJKA)",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a199",
+"st": [
+"400n"
+],
+"u": "fonts/lacartoonerie-rus-by-lyajka.zip"
+}
+],
+[
+"Rozovii Chulok",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a201",
+"st": [
+"400n"
+],
+"u": "fonts/rozovii-chulok.zip"
+}
+],
+[
+"Debby",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a202",
+"st": [
+"400n"
+],
+"u": "fonts/debby.zip"
+}
+],
+[
+"PARABOLA",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a203",
+"st": [
+"400n"
+],
+"u": "fonts/parabola.zip"
+}
+],
+[
+"Chantal Cyrillic",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a204",
+"st": [
+"300n",
+"500n",
+"700n"
+],
+"u": "fonts/chantal-cyrillic.zip"
+}
+],
+[
+"LeoHand",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a205",
+"st": [
+"300n",
+"500n"
+],
+"u": "fonts/leohand.zip"
+}
+],
+[
+"d_CCMatinee Idol",
+"Комикрафт",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a206",
+"st": [
+"400n",
+"700n"
+],
+"u": "fonts/d-ccmatinee-idol.zip"
+}
+],
+[
+"MADE Likes Script",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a207",
+"st": [
+"400n"
+],
+"u": "fonts/made-likes-script.zip"
+}
+],
+[
+"UKIJ Moy Qelem",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a208",
+"st": [
+"400n"
+],
+"u": "fonts/ukij-moy-qelem.zip"
+}
+],
+[
+"Zhizn",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a209",
+"st": [
+"400n"
+],
+"u": "fonts/zhizn.zip"
+}
+],
+[
+"d_Gros Marqueur",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a210",
+"st": [
+"400n"
+],
+"u": "fonts/d-gros-marqueur.zip"
+}
+],
+[
+"v_CCYadaYadaYada-Int",
+"Комикрафт",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a211",
+"st": [
+"400n"
+],
+"u": "fonts/v-ccyadayadayada-int.zip"
+}
+],
+[
+"Brusnika",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a212",
+"st": [
+"500n"
+],
+"u": "fonts/brusnika.zip"
+}
+],
+[
+"Dudu Cyryllic",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a214",
+"st": [
+"500n"
+],
+"u": "fonts/dudu-cyryllic.zip"
+}
+],
+[
+"Neucha",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a215",
+"st": [
+"400n"
+],
+"u": "fonts/neucha.zip"
+}
+],
+[
+"PF Scandal Pro",
+"Любой другой",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a216",
+"st": [
+"400n",
+"700n",
+"900n"
+],
+"u": "fonts/pf-scandal-pro.zip"
+}
+],
+[
+"v_Blambot FXPro BB",
+"Бламбот",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a217",
+"st": [
+"300n",
+"900n"
+],
+"u": "fonts/v-blambot-fxpro-bb.zip"
+}
+],
+[
+"v_CCHushHush",
+"Комикрафт",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a218",
+"st": [
+"400n"
+],
+"u": "fonts/v-cchushhush.zip"
+}
+],
+[
+"UA_CC_Grande_Guignol",
+"Любой другой",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a309",
+"st": [
+"400n"
+],
+"u": "fonts/ua-cc-grande-guignol.zip"
+}
+],
+[
+"v_Damn Noisy Kids",
+"Любой другой",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a315",
+"st": [
+"400n"
+],
+"u": "fonts/v-damn-noisy-kids.zip"
+}
+],
+[
+"mr_MangaMasterBBG",
+"Любой другой",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a222",
+"st": [
+"400n"
+],
+"u": "fonts/mr-mangamasterbbg.zip"
+}
+],
+[
+"CCJoeKubert",
+"Комикрафт",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a223",
+"st": [
+"400n"
+],
+"u": "fonts/ccjoekubert.zip"
+}
+],
+[
+"Kid Kosmic Cyr",
+"Любой другой",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a224",
+"st": [
+"400i",
+"400n"
+],
+"u": "fonts/kid-kosmic-cyr.zip"
+}
+],
+[
+"Manga Temple",
+"Любой другой",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a225",
+"st": [
+"400n"
+],
+"u": "fonts/manga-temple.zip"
+}
+],
+[
+"v_CCComicraft_Diamond",
+"Комикрафт",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a319",
+"st": [
+"400n"
+],
+"u": "fonts/v-cccomicraft-diamond.zip"
+}
+],
+[
+"v_CCSmash",
+"Комикрафт",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a227",
+"st": [
+"400n"
+],
+"u": "fonts/v-ccsmash.zip"
+}
+],
+[
+"v_BeatDown Alts BB",
+"Бламбот",
+[
+"Звук",
+"Воздушные"
+],
+"",
+24,
+"ext",
+{
+"pf": "a229",
+"st": [
+"400n"
+],
+"u": "fonts/v-beatdown-alts-bb.zip"
+}
+],
+[
+"v_CCFightingWordsDoubled",
+"Комикрафт",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a232",
+"st": [
+"400n"
+],
+"u": "fonts/v-ccfightingwordsdoubled.zip"
+}
+],
+[
+"v_TwoFisted Alt BB",
+"Бламбот",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a233",
+"st": [
+"400n"
+],
+"u": "fonts/v-twofisted-alt-bb.zip"
+}
+],
+[
+"Hitch Hike",
+"Любой другой",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a325",
+"st": [
+"400n"
+],
+"u": "fonts/hitch-hike.zip"
+}
+],
+[
+"SandyOne",
+"Любой другой",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a235",
+"st": [
+"400n"
+],
+"u": "fonts/sandyone.zip"
+}
+],
+[
+"RightHand_dbl",
+"Любой другой",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a236",
+"st": [
+"400n"
+],
+"u": "fonts/righthand-dbl.zip"
+}
+],
+[
+"aZZ TTG Tribute Cyr",
+"Любой другой",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a237",
+"st": [
+"300n"
+],
+"u": "fonts/azz-ttg-tribute-cyr.zip"
+}
+],
+[
+"JakobXC",
+"Любой другой",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a238",
+"st": [
+"400n"
+],
+"u": "fonts/jakobxc.zip"
+}
+],
+[
+"Kremlin_nuovo",
+"Любой другой",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a239",
+"st": [
+"400n"
+],
+"u": "fonts/kremlin-nuovo.zip"
+}
+],
+[
+"MP Manga Font",
+"Любой другой",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a240",
+"st": [
+"300i",
+"300n"
+],
+"u": "fonts/mp-manga-font.zip"
+}
+],
+[
+"v_Billy The Flying Robot BB LC",
+"Любой другой",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a241",
+"st": [
+"500n"
+],
+"u": "fonts/v-billy-the-flying-robot-bb-lc.zip"
+}
+],
+[
+"v_RedStateBlueState BB",
+"Бламбот",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a243",
+"st": [
+"400n"
+],
+"u": "fonts/v-redstatebluestate-bb.zip"
+}
+],
+[
+"v_Gorilla Milkshake",
+"Любой другой",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a328",
+"st": [
+"400n"
+],
+"u": "fonts/v-gorilla-milkshake.zip"
+}
+],
+[
+"v_CCDearDiary",
+"Комикрафт",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a245",
+"st": [
+"400n"
+],
+"u": "fonts/v-ccdeardiary.zip"
+}
+],
+[
+"v_CCShake",
+"Комикрафт",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a310",
+"st": [
+"400n"
+],
+"u": "fonts/v-ccshake.zip"
+}
+],
+[
+"MP Manga Font Bold Italic",
+"Любой другой",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a247",
+"st": [
+"300i"
+],
+"u": "fonts/mp-manga-font-bold-italic.zip"
+}
+],
+[
+"kraM",
+"Любой другой",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a312",
+"st": [
+"400n"
+],
+"u": "fonts/kram.zip"
+}
+],
+[
+"Black Diamond",
+"Любой другой",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a329",
+"st": [
+"400n"
+],
+"u": "fonts/black-diamond.zip"
+}
+],
+[
+"MP Manga Font Bold",
+"Любой другой",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a250",
+"st": [
+"300n"
+],
+"u": "fonts/mp-manga-font-bold.zip"
+}
+],
+[
+"BirchCTT",
+"Любой другой",
+[
+"Звук"
+],
+"",
+24,
+"ext",
+{
+"pf": "a326",
+"st": [
+"400n"
+],
+"u": "fonts/birchctt.zip"
+}
+],
+[
+"1",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a252",
+"st": [
+"400n"
+],
+"u": "fonts/1.zip"
+}
+],
+[
+"3",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a253",
+"st": [
+"400n"
+],
+"u": "fonts/3.zip"
+}
+],
+[
+"4",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a254",
+"st": [
+"400n"
+],
+"u": "fonts/4.zip"
+}
+],
+[
+"2",
+"Любой другой",
+[
+"Неряшливая выноска"
+],
+"",
+24,
+"ext",
+{
+"pf": "a255",
+"st": [
+"400n"
+],
+"u": "fonts/2.zip"
+}
+],
+[
+"v_CCClobberinTime-Crunchy",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Толстяк"
+],
+"",
+24,
+"ext",
+{
+"pf": "a288",
+"st": [
+"400n"
+],
+"u": "fonts/v-ccclobberintime-crunchy.zip"
+}
+],
+[
+"v_CCClobberinTime-Smooth",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Толстяк"
+],
+"",
+24,
+"ext",
+{
+"pf": "a289",
+"st": [
+"400n"
+],
+"u": "fonts/v-ccclobberintime-smooth.zip"
+}
+],
+[
+"CCZoinks",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a290",
+"st": [
+"400n"
+],
+"u": "fonts/cczoinks.zip"
+}
+],
+[
+"CCZoinksOutline",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a291",
+"st": [
+"400n"
+],
+"u": "fonts/cczoinksoutline.zip"
+}
+],
+[
+"d_BBDearlyDeparted",
+"Бламбот",
+[
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a292",
+"st": [
+"400i",
+"400n",
+"700i"
+],
+"u": "fonts/d-bbdearlydeparted.zip"
+}
+],
+[
+"CCWiccanSans",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a293",
+"st": [
+"400n",
+"700n"
+],
+"u": "fonts/ccwiccansans.zip"
+}
+],
+[
+"CCWiccanSerif",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a294",
+"st": [
+"400n",
+"700n"
+],
+"u": "fonts/ccwiccanserif.zip"
+}
+],
+[
+"CCWiccanSpecial",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a295",
+"st": [
+"400n",
+"700n"
+],
+"u": "fonts/ccwiccanspecial.zip"
+}
+],
+[
+"d_CCWiccan_Special",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a296",
+"st": [
+"400n"
+],
+"u": "fonts/d-ccwiccan-special.zip"
+}
+],
+[
+"v_CCWiccanSansInt",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a297",
+"st": [
+"400n"
+],
+"u": "fonts/v-ccwiccansansint.zip"
+}
+],
+[
+"v_CCWiccanSerif-Int",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a298",
+"st": [
+"400n"
+],
+"u": "fonts/v-ccwiccanserif-int.zip"
+}
+],
+[
+"d_CCUrban Barbarian",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Нервный & пугливый"
+],
+"",
+24,
+"ext",
+{
+"pf": "a299",
+"st": [
+"400n",
+"700n"
+],
+"u": "fonts/d-ccurban-barbarian.zip"
+}
+],
+[
+"UA_CC_Bithead-Bark",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Исторический & народный"
+],
+"",
+24,
+"ext",
+{
+"pf": "a300",
+"st": [
+"400n"
+],
+"u": "fonts/ua-cc-bithead-bark.zip"
+}
+],
+[
+"UA_CC_Bithead-Bark-Alt",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Исторический & народный"
+],
+"",
+24,
+"ext",
+{
+"pf": "a301",
+"st": [
+"400n"
+],
+"u": "fonts/ua-cc-bithead-bark-alt.zip"
+}
+],
+[
+"UA_CC_Bithead-Byte",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Исторический & народный"
+],
+"",
+24,
+"ext",
+{
+"pf": "a302",
+"st": [
+"400n"
+],
+"u": "fonts/ua-cc-bithead-byte.zip"
+}
+],
+[
+"UA_CC_Bithead-Byte-Alt",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Исторический & народный"
+],
+"",
+24,
+"ext",
+{
+"pf": "a303",
+"st": [
+"400n"
+],
+"u": "fonts/ua-cc-bithead-byte-alt.zip"
+}
+],
+[
+"CCMeanwhileUncial",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Исторический & народный"
+],
+"",
+24,
+"ext",
+{
+"pf": "a304",
+"st": [
+"400i",
+"400n",
+"700i",
+"700n"
+],
+"u": "fonts/ccmeanwhileuncial.zip"
+}
+],
+[
+"v_CCMeanwhileUncial-Doubled",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Исторический & народный"
+],
+"",
+24,
+"ext",
+{
+"pf": "a305",
+"st": [
+"400n"
+],
+"u": "fonts/v-ccmeanwhileuncial-doubled.zip"
+}
+],
+[
+"mr_ActiveG",
+"Любой другой",
+[
+"Звук",
+"Острые (режущие)"
+],
+"",
+24,
+"ext",
+{
+"pf": "a306",
+"st": [
+"400n"
+],
+"u": "fonts/mr-activeg.zip"
+}
+],
+[
+"v_RedStateBlueStateBB-Fat",
+"Любой другой",
+[
+"Звук",
+"Твёрдые"
+],
+"",
+24,
+"ext",
+{
+"pf": "a308",
+"st": [
+"400n"
+],
+"u": "fonts/v-redstatebluestatebb-fat.zip"
+}
+],
+[
+"v_CCSmashCaps",
+"Комикрафт",
+[
+"Звук",
+"Твёрдые"
+],
+"",
+24,
+"ext",
+{
+"pf": "a311",
+"st": [
+"400n"
+],
+"u": "fonts/v-ccsmashcaps.zip"
+}
+],
+[
+"mr_CCSlaphappyG",
+"Комикрафт",
+[
+"Звук",
+"Округлые (вкусные)"
+],
+"",
+24,
+"ext",
+{
+"pf": "a313",
+"st": [
+"400n"
+],
+"u": "fonts/mr-ccslaphappyg.zip"
+}
+],
+[
+"mr_HictorPetrolG",
+"Любой другой",
+[
+"Звук",
+"Воздушные"
+],
+"",
+24,
+"ext",
+{
+"pf": "a314",
+"st": [
+"400n"
+],
+"u": "fonts/mr-hictorpetrolg.zip"
+}
+],
+[
+"mr_CCHighJinkiesG",
+"Комикрафт",
+[
+"Звук",
+"Твёрдые"
+],
+"",
+24,
+"ext",
+{
+"pf": "a316",
+"st": [
+"400n"
+],
+"u": "fonts/mr-cchighjinkiesg.zip"
+}
+],
+[
+"v_BeatDownAltsBB",
+"Бламбот",
+[
+"Звук",
+"Воздушные"
+],
+"",
+24,
+"ext",
+{
+"pf": "a317",
+"st": [
+"400n"
+],
+"u": "fonts/v-beatdownaltsbb.zip"
+}
+],
+[
+"mr_OzHandicraft_BTG",
+"Любой другой",
+[
+"Звук",
+"Твёрдые"
+],
+"",
+24,
+"ext",
+{
+"pf": "a318",
+"st": [
+"400n"
+],
+"u": "fonts/mr-ozhandicraft-btg.zip"
+}
+],
+[
+"mr_BrolgaG",
+"Любой другой",
+[
+"Звук",
+"Острые (режущие)"
+],
+"",
+24,
+"ext",
+{
+"pf": "a320",
+"st": [
+"400n"
+],
+"u": "fonts/mr-brolgag.zip"
+}
+],
+[
+"mr_CCCheekyMonkeyG",
+"Комикрафт",
+[
+"Звук",
+"Склизкие (противные)"
+],
+"",
+24,
+"ext",
+{
+"pf": "a323",
+"st": [
+"400n"
+],
+"u": "fonts/mr-cccheekymonkeyg.zip"
+}
+],
+[
+"el_Guest Check",
+"Любой другой",
+[
+"Звук",
+"Твёрдые"
+],
+"",
+24,
+"ext",
+{
+"pf": "a324",
+"st": [
+"400n"
+],
+"u": "fonts/el-guest-check.zip"
+}
+],
+[
+"mr_ImaginaryFriendBBG",
+"Любой другой",
+[
+"Звук",
+"Воздушные"
+],
+"",
+24,
+"ext",
+{
+"pf": "a327",
+"st": [
+"400n"
+],
+"u": "fonts/mr-imaginaryfriendbbg.zip"
+}
+],
+[
+"mr_ConundrumG",
+"Любой другой",
+[
+"Звук",
+"Твёрдые"
+],
+"",
+24,
+"ext",
+{
+"pf": "a332",
+"st": [
+"400n"
+],
+"u": "fonts/mr-conundrumg.zip"
+}
+],
+[
+"mr_Revla_SansG",
+"Любой другой",
+[
+"Звук",
+"Твёрдые"
+],
+"",
+24,
+"ext",
+{
+"pf": "a333",
+"st": [
+"300n"
+],
+"u": "fonts/mr-revla-sansg.zip"
+}
+],
+[
+"d_CCShoutOut",
+"Комикрафт",
+[
+"Звук",
+"Воздушные"
+],
+"",
+24,
+"ext",
+{
+"pf": "a335",
+"st": [
+"400n",
+"700n"
+],
+"u": "fonts/d-ccshoutout.zip"
+}
+],
+[
+"CC Meanwhile old",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Средний",
+"Рукописный"
+],
+"",
+24,
+"ext",
+{
+"pf": "a336",
+"st": [
+"400i",
+"400n",
+"700i",
+"700n"
+],
+"u": "fonts/cc-meanwhile-old.zip"
+}
+],
+[
+"CCMeanwhile",
+"Комикрафт",
+[
+"Диалоговый пузырь",
+"Средний",
+"Рукописный"
+],
+"",
+24,
+"ext",
+{
+"pf": "a337",
+"st": [
+"400i",
+"400n",
+"700i",
+"700n"
+],
+"u": "fonts/ccmeanwhile.zip"
+}
+]
+],
+"cols": [
+[
+[
+"Автор",
+[
+"Комикрафт",
+"Бламбот",
+"Любой другой",
+"Намикус",
+"Абай"
+],
+"a"
+],
+[
+"Характер",
+[
+"Средний",
+"Широкий",
+"Узкий",
+"Толстяк",
+"Тонкий",
+"Квадратный",
+"Округлый",
+"Жуткий",
+"Механический",
+"Неряшливый",
+"Рукописный",
+"Некомический",
+"Исторический & народный",
+"Нервный & пугливый",
+"Фантастические и мифические"
+],
+"t"
+]
+],
+[
+[
+"Тип",
+[
+"Диалоговый пузырь",
+"Неряшливая выноска",
+"Звук",
+"Гротеск",
+"Антиква",
+"Предмет"
+],
+"t"
+],
+[
+"Ощущения",
+[
+"Твёрдые",
+"Округлые (вкусные)",
+"Склизкие (противные)",
+"Воздушные",
+"Острые (режущие)",
+"Интеллигентные"
+],
+"t"
+]
+]
+],
+"awards": {
+"НМ Сёнэн 2": [
+[
+"g",
+"Превью шрифта",
+"",
+"awards/nm-senen-2.webp"
+],
+[
+"g",
+"",
+"",
+"awards/nm-senen-2-2.webp"
+],
+[
+"g",
+"",
+"",
+"awards/nm-senen-2-3.webp"
+],
+[
+"g",
+"",
+"",
+"awards/nm-senen-2-4.webp"
+],
+[
+"g",
+"Боруто",
+"",
+"awards/nm-senen-2-5.webp"
+],
+[
+"g",
+"Не знаю откуда отрывок",
+"",
+"awards/nm-senen-2-6.webp"
+]
+],
+"НМ Скандал": [
+[
+"g",
+"",
+"",
+"awards/nm-skandal.webp"
+],
+[
+"g",
+"",
+"",
+"awards/nm-skandal-2.webp"
+],
+[
+"g",
+"",
+"",
+"awards/nm-skandal-3.webp"
+]
+],
+"Сочиняла": [
+[
+"g",
+"",
+"",
+"awards/sochinyala-2.webp"
+],
+[
+"g",
+"",
+"",
+"awards/sochinyala-3.webp"
+],
+[
+"g",
+"",
+"",
+"awards/sochinyala-4.webp"
+],
+[
+"g",
+"",
+"",
+"awards/sochinyala-5.webp"
+]
+]
+}
+}
